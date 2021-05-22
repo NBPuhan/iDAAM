@@ -1,4 +1,4 @@
-# Interleaved_Artifacts_Aware_Attention_Mechanism
+# Interleaved Artifacts Aware Attention Mechanism
 This is the official tensorflow implementation of "Interleaved Deep Artifacts-aware Attention Mechanism for Concrete Structural Defect Classification". This repository includes the proposed fine-grained dense module, committee of multi-feature attention module and simultaneous excitation module. The results folder contains the results and the visualizations using attention maps.
 
 ## The iDAAM architecture

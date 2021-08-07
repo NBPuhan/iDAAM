@@ -23,7 +23,7 @@ This figure describes (a). the proposed committee of multi-feature attention mod
 
 ## Hyper-parameters for training
 
-For our results, 200 epochs are considered with mini-batch size of 16 and learning rate 0.001 and momentum 0.9. The data split protocol same as the existing works were being followed.
+For our results, 200 epochs are considered with mini-batch size of 16 and learning rate 0.001 and momentum 0.9. The data split protocol followed the same as the existing works.
 
 ## Results
 

@@ -3,18 +3,10 @@ This is the tensorflow implementation of "Interleaved Deep Artifacts-aware Atten
 
 # Citation
 If you are fully or partially using codes/results from this repository, please cite the following paper: 
-@article{Bhattacharya2021,
-  author    = {Gaurab Bhattacharya and
-               Bappaditya Mandal and
-               Niladri B. Puhan},
-  title     = {Interleaved Deep Artifacts-aware Attention Mechanism for Concrete Structural Defect Classification},
-  journal   = {IEEE Transactions on Image Processing},
-  volume    = {},
-  number    = {},
-  pages     = {6957-6969},
-  year      = {2021},
-  doi       = {10.1109/TIP.2021.3100556}
-}
+
+G. Bhattacharya, B. Mandal, and N. B. Puhan, "Interleaved Deep Artifacts-aware Attention Mechanism for Concrete Structural Defect Classification". pp. 6957-6969, 2021, doi: 10.1109/TIP.2021.3100556.
+
+The main paper can be accessed from here: https://ieeexplore.ieee.org/document/9505264.
 
 ## The iDAAM architecture
 The novel iDAAM architecture is proposed to classify both multi-target multi-class and singleclass structural defect images. iDAAM architecture consists of interleaved fine-grained dense modules (FGDM) and concurrent dual attention modules (CDAM) to extract salient discriminative features from multiple scales to improve the classification performance. Experimental results and ablation studies show that the newly proposed architecture achieves significantly better classification performance than the current state-of-the-art methodologies on three large datasets.

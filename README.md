@@ -4,7 +4,7 @@ This is the tensorflow implementation of "Interleaved Deep Artifacts-aware Atten
 # Citation
 If you are fully or partially using codes/results from this repository, please cite the following paper: 
 
-G. Bhattacharya, B. Mandal, and N. B. Puhan, "Interleaved Deep Artifacts-aware Attention Mechanism for Concrete Structural Defect Classification". pp. 6957-6969, 2021, doi: 10.1109/TIP.2021.3100556.
+G. Bhattacharya, B. Mandal, and N. B. Puhan, "Interleaved Deep Artifacts-aware Attention Mechanism for Concrete Structural Defect Classification". vol. 30, pp. 6957-6969, 2021, doi: 10.1109/TIP.2021.3100556.
 
 The original paper can be accessed from here: https://ieeexplore.ieee.org/document/9505264.
 

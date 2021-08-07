@@ -1,0 +1,28 @@
+## Code usage license statement 
+
+The researcher has requested permission to use the code jointly developed by the (1) Indian Institute of Technology, Bhubaneswar, India and (2) Keele University, United Kingdom, used in the following paper:
+
+Reference paper: 
+@article{Bhattacharya2021,
+  author    = {Gaurab Bhattacharya and
+               Bappaditya Mandal and
+               Niladri B. Puhan},
+  title     = {Interleaved Deep Artifacts-aware Attention Mechanism for Concrete Structural Defect Classification},
+  journal   = {IEEE Transactions on Image Processing},
+  volume    = {},
+  number    = {},
+  pages     = {6957-6969},
+  year      = {2021},
+  doi       = {10.1109/TIP.2021.3100556}
+}
+
+
+In exchange for such permission the researcher/user agrees and is bound by the following terms and conditions:
+
+1. The codes are distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. Details here: https://creativecommons.org/licenses/by/4.0/ 
+Any work that makes use of the code partially or wholly, must cite and provide credit to the above reference paper.
+
+2. The code comes "AS IS". While we have made every effort to ensure accuracy, no representations or warranties regarding the codes are made. This includes but is not limited to warranties of non-infringement or fitness for a particular purpose and no responsibility is accepted for errors or omissions. They may be used at the user's own risk and no warranty is provided.
+
+
+
